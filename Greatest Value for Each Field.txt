@@ -1,0 +1,8 @@
+This text contains the greatest value from the data set for each individual field
+
+const int ZIP_LENGTH = 5,
+		PLACE_LENGTH = 27,
+		STATE_LENGTH = 2,
+		COUNTY_LENGTH = 32,
+		LAT_LENGTH = 7,
+		LONG_LENGTH = 9,
